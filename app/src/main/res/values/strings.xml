@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabok_ui_dev</string>
+    <string name="navigation_open">Open Navigation</string>
+    <string name="navigation_close">Close Navigation</string>
+
+    <string name="navigation_scan">Scann</string>
+</resources>
