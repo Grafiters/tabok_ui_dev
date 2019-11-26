@@ -1082,6 +1082,7 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_presensi
 drawable ic_scan
 drawable ic_score
+drawable layout_bg_image
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1242,6 +1243,10 @@ id login_mhs
 id masked
 id media_actions
 id message
+id mhs_email
+id mhs_icon
+id mhs_name
+id mhs_nim
 id middle
 id mini
 id mtrl_child_content_container
@@ -1277,6 +1282,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id recyclerView
 id right
 id right_icon
 id right_side
@@ -1443,6 +1449,7 @@ layout fragment_mhs
 layout fragment_presensi
 layout fragment_scan
 layout fragment_score
+layout layout_mhs_list
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout nav_header

@@ -5,12 +5,9 @@
     android:layout_height="match_parent"
     android:background="@color/colorBlue">
 
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Daftar MHS"
-        android:textColor="#ffffff"
-        android:gravity="center"
-        android:textSize="50dp"/>
+        android:layout_height="match_parent"/>
 
 </LinearLayout>
