@@ -1,18 +1,27 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5ff600cfcced794085877319d3cb15f9/jetified-navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.material:material:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d74b5b498b35fd5cb32d0a6997bb1d3d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/grafiters/.gradle/caches/transforms-2/files-2.1/508ac768b50158a079142e4dc4915061/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2b85e726089f5d18678e7bcfd87fa2c8/zxing-1.9.8/AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2055dee6c5b5678097adb116b4fe79a4/jetified-core-1.9.8/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/47fc3950c814b04977735368112c37af/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/07f834236084f4f23c85a0e508a8cac0/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/dec1f298fd4f65356fef632cfd84ae24/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cardview:cardview:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/f64c8351ef0c9a7a800019d28185706c/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ca3ed72cfdc57fc3a102e462c0327875/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ca65826aeea87cf09fb20a886896d8d0/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/7e2a1852338b67cd68aedc8c23a6cf20/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b198d367166617ab038c04401afd7dd4/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d934be3c652b5ff5c18e2d68c8236453/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/c63ceca946e9bc27525371878741042e/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/8d97f43c730baedb50b76131bea8976c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -20,8 +29,8 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/grafiters/.gradle/c
 MERGED from [androidx.media:media:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b64f80842d3d302e8b4275c4ce2e897c/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/65eb695d8f60c47c48deea4b4bc97d22/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.1] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b864cd16072d1602fda8962c3926da3a/transition-1.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/7e3b4c2f83e256517b094f844ce7d668/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ac865787310f129ad401a24e4551ae3c/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/a45f51b2867c115d86c8bdb1d487c72c/activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bfb36a8a02a6b71b49ca7ec649145b26/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -47,33 +56,59 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grafiters/.gradle/c
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/8cf450d11667f9427b289f08c2115f5c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d31a9dbc3f8404c541e987748c42963b/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/699bc310780b1730bce8fe271ffeca8b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:4:5-39
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:1-35:12
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:8:19-67
 application
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:6:5-26:19
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:26:5-30:19
 MERGED from [com.google.android.material:material:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/grafiters/.gradle/caches/transforms-2/files-2.1/508ac768b50158a079142e4dc4915061/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/grafiters/.gradle/caches/transforms-2/files-2.1/508ac768b50158a079142e4dc4915061/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2b85e726089f5d18678e7bcfd87fa2c8/zxing-1.9.8/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2b85e726089f5d18678e7bcfd87fa2c8/zxing-1.9.8/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2055dee6c5b5678097adb116b4fe79a4/jetified-core-1.9.8/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2055dee6c5b5678097adb116b4fe79a4/jetified-core-1.9.8/AndroidManifest.xml:11:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/dec1f298fd4f65356fef632cfd84ae24/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/dec1f298fd4f65356fef632cfd84ae24/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b198d367166617ab038c04401afd7dd4/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b198d367166617ab038c04401afd7dd4/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/55580b0ab45b69249933074462ab11c2/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
@@ -83,59 +118,69 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/grafi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:13:9-41
 	tools:ignore
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:13:9-48
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:17:9-48
 	android:roundIcon
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:16:9-40
 activity#com.example.tabok_ui_dev.Dashboard_mhs
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:14:9-16:20
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:19:9-21:59
 	android:theme
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:15:13-56
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:21:13-56
 	android:name
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:14:19-48
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:20:13-42
 activity#com.example.tabok_ui_dev.login_mhs
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:17:9-47
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:22:9-47
 	android:name
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:17:19-44
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:22:19-44
 activity#com.example.tabok_ui_dev.Login
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:18:9-43
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:23:9-43
 	android:name
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:18:19-40
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:23:19-40
+activity#com.example.tabok_ui_dev.ScannBased
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:24:19-45
 activity#com.example.tabok_ui_dev.MainActivity
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:19:9-25:20
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:25:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
 INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5ff600cfcced794085877319d3cb15f9/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5ff600cfcced794085877319d3cb15f9/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:22:5-24:41
 MERGED from [com.google.android.material:material:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d74b5b498b35fd5cb32d0a6997bb1d3d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d74b5b498b35fd5cb32d0a6997bb1d3d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/grafiters/.gradle/caches/transforms-2/files-2.1/508ac768b50158a079142e4dc4915061/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/grafiters/.gradle/caches/transforms-2/files-2.1/508ac768b50158a079142e4dc4915061/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2b85e726089f5d18678e7bcfd87fa2c8/zxing-1.9.8/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2b85e726089f5d18678e7bcfd87fa2c8/zxing-1.9.8/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2055dee6c5b5678097adb116b4fe79a4/jetified-core-1.9.8/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/grafiters/.gradle/caches/transforms-2/files-2.1/2055dee6c5b5678097adb116b4fe79a4/jetified-core-1.9.8/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/47fc3950c814b04977735368112c37af/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/47fc3950c814b04977735368112c37af/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/07f834236084f4f23c85a0e508a8cac0/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
@@ -146,6 +191,18 @@ MERGED from [androidx.cardview:cardview:1.0.0] /home/grafiters/.gradle/caches/tr
 MERGED from [androidx.cardview:cardview:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/f64c8351ef0c9a7a800019d28185706c/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ca3ed72cfdc57fc3a102e462c0327875/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ca3ed72cfdc57fc3a102e462c0327875/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ca65826aeea87cf09fb20a886896d8d0/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ca65826aeea87cf09fb20a886896d8d0/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/7e2a1852338b67cd68aedc8c23a6cf20/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/7e2a1852338b67cd68aedc8c23a6cf20/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b198d367166617ab038c04401afd7dd4/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b198d367166617ab038c04401afd7dd4/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d934be3c652b5ff5c18e2d68c8236453/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d934be3c652b5ff5c18e2d68c8236453/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/c63ceca946e9bc27525371878741042e/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -160,10 +217,10 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grafiters/.g
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/65eb695d8f60c47c48deea4b4bc97d22/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.1] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b864cd16072d1602fda8962c3926da3a/transition-1.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.1] /home/grafiters/.gradle/caches/transforms-2/files-2.1/b864cd16072d1602fda8962c3926da3a/transition-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/7e3b4c2f83e256517b094f844ce7d668/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/7e3b4c2f83e256517b094f844ce7d668/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ac865787310f129ad401a24e4551ae3c/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/ac865787310f129ad401a24e4551ae3c/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/a45f51b2867c115d86c8bdb1d487c72c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -224,6 +281,44 @@ INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/An
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 		ADDED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
 		INJECTED from /home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/d11777a2e70dfc72679edc93f24c4be8/jetified-dexter-5.0.0/AndroidManifest.xml:28:13-60
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/5e94c6fcc324962296ff7ff911b6a055/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/bd8a4935a17dde33dc1d62d4f9914d3b/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/13572464b8e1c2b298e83d1caeace64e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/grafiters/.gradle/caches/transforms-2/files-2.1/55580b0ab45b69249933074462ab11c2/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
 	android:authorities
