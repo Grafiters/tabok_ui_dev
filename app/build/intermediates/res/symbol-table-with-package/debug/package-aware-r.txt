@@ -1119,6 +1119,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable devider
 drawable edit_text
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -1224,6 +1225,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_absen
 id buttonPanel
 id cancel_action
 id center
@@ -1285,9 +1287,9 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id kelas
 id labeled
 id largeLabel
-id layout_result
 id left
 id light
 id line1
@@ -1298,6 +1300,7 @@ id login
 id login_dosen
 id login_mhs
 id masked
+id matkul
 id media_actions
 id message
 id mhs_email
@@ -1309,6 +1312,7 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id nama
 id nav_controller_view_tag
 id nav_home
 id nav_logout
@@ -1340,6 +1344,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id recyclerView
+id result_matkul
 id right
 id right_icon
 id right_side
@@ -1418,6 +1423,7 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id txt_data
 id txt_scan
 id unchecked
 id uniform
@@ -1426,6 +1432,7 @@ id up
 id useLogo
 id view_offset_helper
 id visible
+id waktu
 id wide
 id withText
 id wrap
@@ -1513,6 +1520,7 @@ layout fragment_mhs
 layout fragment_presensi
 layout fragment_scan
 layout fragment_score
+layout layout_matkul
 layout layout_mhs_list
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
