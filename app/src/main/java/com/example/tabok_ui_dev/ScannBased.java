@@ -47,6 +47,7 @@ public class ScannBased extends AppCompatActivity implements ZXingScannerView.Re
 
             }
         }).check();
+        onBackPressed();
     }
     protected void onDestroy(){
         scannerView.stopCamera();
@@ -56,5 +57,9 @@ public class ScannBased extends AppCompatActivity implements ZXingScannerView.Re
     @Override
     public void handleResult(Result result) {
         txtResult.setText(result.getText());
+    }
+
+    public void onBackPressed(){
+        super.onBackPressed();
     }
 }
