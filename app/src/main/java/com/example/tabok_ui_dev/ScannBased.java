@@ -3,6 +3,7 @@ package com.example.tabok_ui_dev;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.Manifest;
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -47,7 +48,6 @@ public class ScannBased extends AppCompatActivity implements ZXingScannerView.Re
 
             }
         }).check();
-        onBackPressed();
     }
     protected void onDestroy(){
         scannerView.stopCamera();
@@ -56,10 +56,7 @@ public class ScannBased extends AppCompatActivity implements ZXingScannerView.Re
 
     @Override
     public void handleResult(Result result) {
-        txtResult.setText(result.getText());
-    }
-
-    public void onBackPressed(){
-        super.onBackPressed();
+        ScanFragment.matkul.setText(result.getText());
+        onBackPressed();
     }
 }

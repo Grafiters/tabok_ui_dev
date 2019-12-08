@@ -13,6 +13,8 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import org.w3c.dom.Text;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,6 +35,9 @@ public class HomeFragment extends Fragment {
         MatkulModelAdapter matkulModelAdapter = new MatkulModelAdapter(matkulModels, getContext());
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         recyclerView.setAdapter(matkulModelAdapter);
+
+        name = (TextView)view.findViewById(R.id.nama);
+        name.setText("Grafiters");
 
         return view;
     }

@@ -1160,6 +1160,7 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+id absen
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -1424,6 +1425,9 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id txt_data
+id txt_jam
+id txt_kelas
+id txt_matkul
 id txt_scan
 id unchecked
 id uniform
