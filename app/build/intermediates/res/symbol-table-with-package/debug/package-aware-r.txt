@@ -1287,6 +1287,7 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id jadwal
 id kelas
 id labeled
 id largeLabel
@@ -1344,7 +1345,6 @@ id progress_circular
 id progress_horizontal
 id radio
 id recyclerView
-id result_matkul
 id right
 id right_icon
 id right_side

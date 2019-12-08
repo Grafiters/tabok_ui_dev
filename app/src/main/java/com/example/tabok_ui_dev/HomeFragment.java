@@ -29,7 +29,7 @@ public class HomeFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view =  inflater.inflate(R.layout.fragment_home, container,false);
 
-        recyclerView = (RecyclerView)view.findViewById(R.id.recyclerView);
+        recyclerView = (RecyclerView)view.findViewById(R.id.jadwal);
         MatkulModelAdapter matkulModelAdapter = new MatkulModelAdapter(matkulModels, getContext());
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         recyclerView.setAdapter(matkulModelAdapter);

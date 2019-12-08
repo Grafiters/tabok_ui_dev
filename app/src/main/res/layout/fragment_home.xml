@@ -82,10 +82,9 @@
         </LinearLayout>
 
         <androidx.recyclerview.widget.RecyclerView
-            android:paddingLeft="20dp"
+            android:id="@+id/jadwal"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/result_matkul"/>
+            android:layout_height="match_parent"/>
 
     </LinearLayout>
 

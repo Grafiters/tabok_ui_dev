@@ -1,4 +1,4 @@
-#Fri Dec 06 19:01:05 WIB 2019
+#Sun Dec 08 08:28:31 WIB 2019
 base.0=/home/grafiters/AndroidStudioProjects/Tabok_ui_dev/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
