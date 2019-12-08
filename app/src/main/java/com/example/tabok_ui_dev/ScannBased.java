@@ -57,6 +57,7 @@ public class ScannBased extends AppCompatActivity implements ZXingScannerView.Re
     @Override
     public void handleResult(Result result) {
         ScanFragment.matkul.setText(result.getText());
-        onBackPressed();
+        Intent i = new Intent(ScannBased.this, ScanFragment.class);
+        startActivity(i);
     }
 }

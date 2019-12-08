@@ -19,8 +19,7 @@
             android:layout_toEndOf="@+id/mhs_icon"
             android:layout_marginLeft="10dp"
             android:layout_marginStart="10dp"
-            android:textColor="#000"
-            android:textSize="13dp"
+            android:textSize="15dp"
             android:text="Grafiters"/>
         <TextView
             android:id="@+id/waktu"
@@ -31,8 +30,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginStart="10dp"
             android:layout_below="@id/matkul"
-            android:textColor="#000"
-            android:textSize="13dp"
+            android:textSize="15dp"
             android:text="A11.2017.10284"/>
         <TextView
             android:id="@+id/kelas"
@@ -43,8 +41,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginStart="10dp"
             android:layout_below="@id/waktu"
-            android:textColor="#000"
-            android:textSize="13dp"
+            android:textSize="15dp"
             android:text="bayugrafit@gmail.com"/>
     </RelativeLayout>
 

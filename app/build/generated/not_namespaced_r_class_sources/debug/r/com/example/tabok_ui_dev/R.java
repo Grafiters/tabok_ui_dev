@@ -5826,22 +5826,21 @@ public final class R {
     public static final int transition_scene_layoutid_cache=0x7f08010c;
     public static final int transition_transform=0x7f08010d;
     public static final int txt_data=0x7f08010e;
-    public static final int txt_jam=0x7f08010f;
-    public static final int txt_kelas=0x7f080110;
-    public static final int txt_matkul=0x7f080111;
-    public static final int txt_scan=0x7f080112;
-    public static final int unchecked=0x7f080113;
-    public static final int uniform=0x7f080114;
-    public static final int unlabeled=0x7f080115;
-    public static final int up=0x7f080116;
-    public static final int useLogo=0x7f080117;
-    public static final int view_offset_helper=0x7f080118;
-    public static final int visible=0x7f080119;
-    public static final int waktu=0x7f08011a;
-    public static final int wide=0x7f08011b;
-    public static final int withText=0x7f08011c;
-    public static final int wrap=0x7f08011d;
-    public static final int wrap_content=0x7f08011e;
+    public static final int txt_kelas=0x7f08010f;
+    public static final int txt_matkul=0x7f080110;
+    public static final int txt_scan=0x7f080111;
+    public static final int unchecked=0x7f080112;
+    public static final int uniform=0x7f080113;
+    public static final int unlabeled=0x7f080114;
+    public static final int up=0x7f080115;
+    public static final int useLogo=0x7f080116;
+    public static final int view_offset_helper=0x7f080117;
+    public static final int visible=0x7f080118;
+    public static final int waktu=0x7f080119;
+    public static final int wide=0x7f08011a;
+    public static final int withText=0x7f08011b;
+    public static final int wrap=0x7f08011c;
+    public static final int wrap_content=0x7f08011d;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;

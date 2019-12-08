@@ -2,8 +2,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="10dp"
-    android:background="@color/colorBlue">
+    android:padding="5dp"
+    android:background="#ADB4ABAB">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -26,8 +26,7 @@
         android:layout_toEndOf="@+id/mhs_icon"
         android:layout_marginLeft="10dp"
         android:layout_marginStart="10dp"
-        android:textColor="#000"
-        android:textSize="13dp"
+        android:textSize="15dp"
         android:text="Grafiters"/>
     <TextView
         android:id="@+id/mhs_nim"
@@ -38,8 +37,7 @@
         android:layout_marginLeft="10dp"
         android:layout_marginStart="10dp"
         android:layout_below="@id/mhs_name"
-        android:textColor="#000"
-        android:textSize="13dp"
+        android:textSize="15dp"
         android:text="A11.2017.10284"/>
     <TextView
         android:id="@+id/mhs_email"
@@ -50,8 +48,7 @@
         android:layout_marginLeft="10dp"
         android:layout_marginStart="10dp"
         android:layout_below="@id/mhs_nim"
-        android:textColor="#000"
-        android:textSize="13dp"
+        android:textSize="15dp"
         android:text="bayugrafit@gmail.com"/>
     </RelativeLayout>
 
