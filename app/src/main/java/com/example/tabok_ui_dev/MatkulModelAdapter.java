@@ -4,6 +4,7 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -41,8 +42,9 @@ public class MatkulModelAdapter extends RecyclerView.Adapter<MatkulModelAdapter.
         return matkulModels.size();
     }
 
-    public class MatkulModelViewHolder extends RecyclerView.ViewHolder {
+    public class MatkulModelViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
+        private LinearLayout detail_matkul;
         TextView matkul, time, kelas;
 
         public MatkulModelViewHolder(@NonNull View itemView) {
@@ -50,6 +52,11 @@ public class MatkulModelAdapter extends RecyclerView.Adapter<MatkulModelAdapter.
             matkul = itemView.findViewById(R.id.matkul);
             time = itemView.findViewById(R.id.waktu);
             kelas = itemView.findViewById(R.id.kelas);
+        }
+
+        @Override
+        public void onClick(View v) {
+
         }
     }
 }
