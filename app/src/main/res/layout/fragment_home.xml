@@ -14,8 +14,11 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="15dp"
-            android:textSize="15dp"
+            android:paddingBottom="15dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="20dp"
+            android:paddingRight="2dp"
+            android:textSize="10dp"
             android:text="SELAMAT DATANG, "
             android:textColor="@color/colorBlue"
             />
@@ -23,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/nama"
-            android:textSize="15dp"/>
+            android:textSize="10dp"/>
 
     </LinearLayout>
     <LinearLayout
@@ -60,7 +63,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="match_parent"
         android:background="#ffffff"
         android:orientation="vertical">
 
